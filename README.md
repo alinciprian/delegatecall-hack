@@ -1,7 +1,7 @@
 # Sample Hardhat Project
 
 This project demonstrates how an incorrect use of delegatecall can be exploited to steal ownership of a smart contract.
-If you want to run the test clone the repo, install dependencies with npm install and run the test using npx hardhat test.
+The test written demonstrates that. If you want to run the test clone the repo, install dependencies with npm install and run the test using npx hardhat test.
 
 Let's quickly analyze the difference between call and delegatecall.
 
